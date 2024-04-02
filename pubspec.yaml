@@ -1,0 +1,10 @@
+name: recetas
+
+environment:
+  sdk: '^3.3.0'
+dependencies:
+  dio: ^5.4.2+1
+  flutter:
+    sdk: flutter
+  flutter_test:
+    sdk: flutter
